@@ -1,4 +1,4 @@
-# Declaration Speeds
+# Declaration Speeds ![Stars](https://img.shields.io/github/stars/Simpson-Computer-Technologies-Research/DeclarationSpeeds?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/Simpson-Computer-Technologies-Research/DeclarationSpeeds?label=Watchers)
 ![banner](https://user-images.githubusercontent.com/75189508/194382177-1c11ee03-f048-4a36-995e-2a1673d08afc.png)
 
 When Declaring a Variable in Golang, should you use 'var n string' or 'n :='? Which is Faster?
